@@ -1,8 +1,0 @@
-com\steven\cloud\MainApp7800.class
-com\steven\cloud\controller\BusinessController.class
-com\steven\cloud\remote\OrderFeign.class
-com\steven\cloud\remote\DownloadFeign.class
-com\steven\cloud\remote\StorageFeign.class
-com\steven\cloud\service\BusinessService.class
-com\steven\cloud\service\BusinessServiceImpl.class
-com\steven\cloud\remote\UploadFeign.class
